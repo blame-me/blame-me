@@ -1,16 +1,47 @@
-## Hi there 👋
+###### COMPLETED:
 
-<!--
-**blame-me/blame-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <p align="CENTER">
+            <img
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+              alt="css3"
+              width="75"
+              height="75"
+            />
+            <img
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+              alt="html5"
+              width="75"
+              height="75"
+            />
+          <img
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+              alt="css3"
+              width="65"
+              height="65"
+            />
+          
+  </p>
 
-Here are some ideas to get you started:
+          
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ###### IN PROGRESS:
+
+ <p align="CENTER">
+    <img
+              src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg"
+              alt="css3"
+              width="75"
+              height="75"
+            />
+           
+  </p>
+
+<details>
+   <summary><b>Web-Courses</b></summary>
+  
+   ##### [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+   ##### [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
+   ##### [The Ultimate React Course 2024: React, Next.js, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/)
+  
+</details>
+ 
